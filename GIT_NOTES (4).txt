@@ -954,11 +954,6 @@ command: git reset --hard commit_id
 HEAD is now at ed8380e Deleting file.txt
 [root@ip-172-31-47-103 devops-workspace]# 
 
-=============================================================================================================================
-* Clean:
-=============================================================================================================================
-Clean is used for removing all the untracked files from working directory.
-
 command: git clean -n                 // dry run - what would be deleted
          git clean -f                 // actual run 
 
