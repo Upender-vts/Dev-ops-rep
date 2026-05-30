@@ -1,0 +1,28 @@
+* Overview of Git
+    * What is Git? 
+    * Why Git?
+          * What is Version control System VCS?
+          * Why VCS?
+          * Traditional system: Linux/windows?
+* Types of Version control System
+    * Centralized Version control System
+    * Distributed Version control System
+-----------------------------------------------------------------------------------------------------------------------------
+* Architecture of Git
+* Installation of Git
+* Basic Git commands
+   * git version
+   * git init
+   * git add
+   * git commit
+   * git status
+   * git log
+   * git config
+   * git show
+   * git rm
+---------------------------------------------------------------------------------------------------------------------------
+* Branches
+---------------------------------------------------------------------------------------------------------------------------
+* Merge & Rebase
+* Cherry-pick
+* Tags
